@@ -1,12 +1,3 @@
-##Fine-Tuning BERT for Spam Classification
-##Overview
-This project demonstrates the fine-tuning of a pre-trained BERT (Bidirectional Encoder Representations from Transformers) model for spam classification. The objective is to classify text messages as either "spam" or "ham" using a labeled dataset of SMS messages.
-
-#Key Features:
-Data preprocessing including tokenization and padding
-Fine-tuning BERT for text classification
-Evaluation using precision, recall, and f1-score
-Confusion matrix for performance visualization
 
 
 # Fine-Tuning BERT for Spam Classification
